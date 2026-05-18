@@ -1,4 +1,4 @@
-#  
+#  Premium bee swarm simulator script é o melhor bee swarm simulator script com morte instantânea e velocidade. Seguro, confiável e otimizado para máximo desempenho.
 
 
 
